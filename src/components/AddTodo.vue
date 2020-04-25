@@ -8,6 +8,8 @@
                 
                 <input type="text" v-model="title" placeholder="add Todo">
                 <input type="submit" value="submit">
+                <i class="fas fa-unicorn"></i>
+                
             </form>
         </div>
     </div>
